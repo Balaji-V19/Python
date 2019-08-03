@@ -5,7 +5,7 @@ if l<3:
 else:
     while l>3:
         print("Removed value %s"%ls[2])
-        ls.remove(ls[2])
+        del ls[2]
         l=l-1
         
         
