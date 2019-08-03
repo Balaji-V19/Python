@@ -5,7 +5,7 @@ if st in ls:
 else:
     print("Not Vowel")
     
-#Other method   :)         
+#Other method  :)         
 #if st=='a' or st=='A' or st=='e' or st=='E' or st=='i' or st=='I' or st=='o' or st=='O' or st=='u' or st=='U':
 #    print("Its a vowel")
 #else:
